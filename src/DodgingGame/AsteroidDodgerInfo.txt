@@ -1,0 +1,14 @@
+Asteroid Dodger
+
+Asteroid Dodger is simple dodging game that becomes harder as time goes on.
+Control your ship as asteroids fly across the screen.
+
+How to Play:
+Use WASD to move your rocket across the screen
+Be careful as you cannot move diagonally
+Asteroids will move faster as time moves on
+If you can survive for 40 seconds, you win!
+
+Developers:
+Jeffrey Duong
+Fall 2019

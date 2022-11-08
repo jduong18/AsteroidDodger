@@ -1,0 +1,5 @@
+After installing the game (check READ_ME), simply go into the 'src' file and run dodging-game.exe (dodging-game Application) to load up the game.
+
+
+Press space to start the game and once the game starts, just use WASD to move the rocket ship around and dodge any asteroids coming 
+your way, survive for 40 seconds and you win!. If you beat the game or get hit, just press space to restart.
